@@ -1,0 +1,17 @@
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\bin\Debug\net8.0\BlackSolution.Data.deps.json
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\bin\Debug\net8.0\BlackSolution.Data.runtimeconfig.json
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\bin\Debug\net8.0\BlackSolution.Data.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\bin\Debug\net8.0\BlackSolution.Data.pdb
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\bin\Debug\net8.0\BlackSolution.Core.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\bin\Debug\net8.0\BlackSolution.Core.pdb
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.csproj.AssemblyReference.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.AssemblyInfoInputs.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.AssemblyInfo.cs
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.csproj.CoreCompileInputs.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.csproj.CopyComplete
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\refint\BlackSolution.Data.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.pdb
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\BlackSolution.Data.genruntimeconfig.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Data\obj\Debug\net8.0\ref\BlackSolution.Data.dll

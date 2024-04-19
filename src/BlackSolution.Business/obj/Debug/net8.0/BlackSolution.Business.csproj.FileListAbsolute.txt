@@ -1,0 +1,14 @@
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\bin\Debug\net8.0\BlackSolution.Business.deps.json
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\bin\Debug\net8.0\BlackSolution.Business.runtimeconfig.json
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\bin\Debug\net8.0\BlackSolution.Business.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\bin\Debug\net8.0\BlackSolution.Business.pdb
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.csproj.AssemblyReference.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.AssemblyInfoInputs.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.AssemblyInfo.cs
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.csproj.CoreCompileInputs.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\refint\BlackSolution.Business.dll
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.pdb
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\BlackSolution.Business.genruntimeconfig.cache
+C:\Users\eldarna\source\repos\BlackSolution\src\BlackSolution.Business\obj\Debug\net8.0\ref\BlackSolution.Business.dll
